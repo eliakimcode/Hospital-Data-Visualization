@@ -2,6 +2,7 @@
 
 **Power BI Business Analytics Project**
 
+
 **Project Overview:**
 I previously worked on a Power BI project that involved analyzing business performance data. The dataset contained approximately 10,000 rows of pre-cleaned and transformed Excel data. This project focused primarily on data modeling, visualization, and insightful analysis.
 
